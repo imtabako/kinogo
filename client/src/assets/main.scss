@@ -1,0 +1,17 @@
+@import 'variables';
+$pagination-bg: transparent;
+$pagination-border-radius: 0;
+$pagination-focus-box-shadow: 0;
+$pagination-border-color: transparent;
+$pagination-disabled-bg: transparent;
+$pagination-disabled-border-color: transparent;
+$pagination-focus-bg: transparent;
+$pagination-hover-bg: transparent;
+$pagination-hover-border-color: white;
+$pagination-active-bg: $primary;
+$pagination-active-border-color: transparent;
+$pagination-padding-x: 0.8rem;
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
